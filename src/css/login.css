@@ -1,0 +1,13 @@
+
+.login-view{
+  background-color: #f2f6f8;
+  height: 100%;
+  padding: 40px 60px;
+  box-sizing: border-box;
+}
+
+.login-view .login-form{margin-top: 20px;}
+.login-view .login-form .password{margin-bottom: 2.5rem;}
+.login-view .login-form input[type=text]{font-size: 16px;}
+.login-view .signup-info{font-size: 12px;}
+.login-view .signup-info a{margin-left: 4px;}
